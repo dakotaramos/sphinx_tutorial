@@ -18,10 +18,6 @@ Check out the :doc:`usage` section for further information, including how to
 
    This project is under active development.
 
-.. note::
-
-   This is a TEST FOR GITHUB ACTIONS TO AUTO UPDATE DOCUMENTATION UPON COMMIT
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
